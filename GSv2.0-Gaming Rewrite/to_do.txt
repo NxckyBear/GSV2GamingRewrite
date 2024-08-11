@@ -1,0 +1,16 @@
+in *counting reincoden das man von vorn anfängt zu zählen sobald man sich verzählt oder 2 mal hintereinander zählt (implementiert)
+
+cooldown im teampanel, bei den buttons (ban button admin funktion) (was???? die werden automatisch bei klick auf disabled gestellt)
+teampanel, unwarn button umcoden (daten aus der db ändern) (exestiert schon????)
+
+selfrols, geschlechtsauswahl den fehler beheben (keine ahnung warum das nicht so richtig funktioniert, rollen stimmen, testing)
+
+in den boosttracker reincoden das wenn man die GSv clan rolle nimmt, diese nach entfernt wird wenn der user aufhört zu boosten (implementiert)
+
+klappt da was nicht
+(Die Teammitglieder sammeln immer mehr strikes, sollten aber eig mit dem 3. Strike ausm Team und der Datenbank usw entfernt werden
+(Is momentan auf 2 gestellt, hätte es aber der Fairnesskeit halber lieber auf 3)) (testing)
+
+evtl ist das schon drin, weis ich nicht genau. Aber auf jedenfall soll ein Strike entfernt werden bei erfüllen der Teamziele (implementiert, testing)
+
+das abmeldungssystem, es exestiert momentan keines, und es muss dringend eins integriert werden (implementiert, testing)
